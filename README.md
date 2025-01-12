@@ -57,8 +57,8 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 🙏请作者喝杯茶
-![wechat](http://39.106.52.143/image/paymentCodeWechat.png)
-![ali](http://39.106.52.143/image/paymentCodeAli.png)  
-
+<img src=http://39.106.52.143/image/paymentCodeAli.png width=220 height=200 />
+<img src=http://39.106.52.143/image/paymentCodeWechat.png width=220 height=180 />
+  
 感谢所有支持的老板！您的支持使这个项目得以持续发展。
 
