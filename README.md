@@ -69,8 +69,7 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 🙏请作者喝杯茶
-二维码加载失败的有劳点击：  
-<a href="http://39.106.52.143/image/paymentCodeWechat"> wechat </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://39.106.52.143/image/paymentCodeAli.png"> ali </a>  
+二维码加载失败的有劳点击一下：   
 [![ali](http://39.106.52.143/image/paymentCodeAli.png)](http://39.106.52.143/image/paymentCodeAli.png)
 [![wechat](http://39.106.52.143/image/paymentCodeWechat.png)](http://39.106.52.143/image/paymentCodeWechat.png)
   
