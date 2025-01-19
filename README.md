@@ -20,6 +20,7 @@
 ## 适配版本
 会适配最新包，但一切以小米商店更新为准，小米商店提示更新则适配，否则不适配，请理解。
 - [x] 8.0.55
+- [x] 8.0.56
 
 ### 食用方法:
 - <a href="https://github.com/Xposed-Modules-Repo/com.xchat/releases">点击此处</a>下载最新版本插件
